@@ -1,18 +1,14 @@
 Hey This is Sahil Ahmad, I'm a passionate software Engineer and a Tech Enthusiast. Looking forward in the field of development and exploring more in this fascinating industry.
 
-
-## Coding Profiles
-
 <a href="https://www.codechef.com/users/night_king_">
   <img  alt="Sahil's Codechef Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
-
-<a href="https://codeforces.com/profile/night_king_">
-  <img  alt="sahil's Codeforces Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
-</a>
-
+## 👨‍💻  &nbsp;About Me  </br>
+- ♨️🐍 I'm **Java, Python & Javascript** coder
+- 🌱 I’m currently learning **Data Structure and Algorithm & Full Stack Web Development**
+- 📫 Feel free to contact me : **ahdsahil23@gmail.com**
+- ⚡ Fun fact **I am the creater and the formula i love**
 <hr/>
-
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <table>
