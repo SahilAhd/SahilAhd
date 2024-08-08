@@ -81,9 +81,7 @@ Hey This is Sahil Ahmad, I'm a passionate software Engineer and a Tech Enthusias
 <h1 align="center">
 ✨ Where you can find me ✨
   
-   https://img.shields.io/badge/https://www.linkedin.com/in/sahil-ahmad-8b5bb9207/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BY4u3LN68SYeuSNt67IS0mA%3D%3D
-
-  https://img.shields.io/badge/https://github.com/SahilAhd/SahilAhd/tree/main
+ 
 
  
 
@@ -95,20 +93,7 @@ Hey This is Sahil Ahmad, I'm a passionate software Engineer and a Tech Enthusias
   
   <a href="https://github.com/SahilAhd/SahilAhd/tree/main">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
-  </a>
-
-
-  <br/>
-  <a href="https://www.facebook.com/profile.php?id=100026103873514">
-    <img src="https://img.shields.io/b
- 
-  <a href="https://www.instagram.com/parth._.27/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
-  </a>
-
-  <a href="https://twitter.com/parthpatel_27">
-    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
-  </a>
+  </a> 
 </p>
 </h1>
 <div align = "center">
