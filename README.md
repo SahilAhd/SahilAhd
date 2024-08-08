@@ -81,9 +81,9 @@ Hey This is Sahil Ahmad, I'm a passionate software Engineer and a Tech Enthusias
 <h1 align="center">
 ✨ Where you can find me ✨
   
-  <!-- https://img.shields.io/badge/https://www.linkedin.com/in/sahil-ahmad-8b5bb9207/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BY4u3LN68SYeuSNt67IS0mA%3D%3D
+   https://img.shields.io/badge/https://www.linkedin.com/in/sahil-ahmad-8b5bb9207/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BY4u3LN68SYeuSNt67IS0mA%3D%3D
 
-  <!-- https://img.shields.io/badge/https://github.com/SahilAhd/SahilAhd/tree/main
+  https://img.shields.io/badge/https://github.com/SahilAhd/SahilAhd/tree/main
 
  
 
